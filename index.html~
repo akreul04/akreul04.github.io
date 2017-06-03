@@ -87,8 +87,6 @@ Served as the sole DBA for all database environments supporting the Wisconsin St
 }
 </style> 
 
-<div id="mydiv" onclick="document.getElementById('mydiv').innerHTML = Date()">Show Date()</div>
-
 <script>
 function startTime() {
 	document.getElementById('clock').innerHTML = new Date();
